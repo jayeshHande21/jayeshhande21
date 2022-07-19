@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Jayesh Hande</h1>
-<h3 align="center">Trying my best to become A passionate frontend developer from India</h3>
+<h3 align="center">Trying my best to become A passionate Full-Stack developer from India</h3>
 
 - 🔭 I’m currently working on **E-commerce Website**
 

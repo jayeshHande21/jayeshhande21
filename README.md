@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jayeshhandewebsite.netlify.app/](https://jayeshhandewebsite.netlify.app/)
 
-- 📝 I working on to write a article on [DOM](DOM)
+- 📝 I working on to write a article on [DOM](DOM) and Server Error
 
 - 💬 Ask me about **CPP , Python**
 
